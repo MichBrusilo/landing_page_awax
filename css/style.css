@@ -233,3 +233,26 @@ nav a:hover {
   margin-right: 100px;
   margin-top: 160px;
 }
+
+/* ABOUT US */
+
+.about-us p {
+  width: 634px;
+  color: #242424;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 25px;
+  text-align: left;
+  margin-right: 0;
+}
+
+.about-us .about-us-btn {
+  float: left;
+  margin-top: 20px;
+}
+
+.video-img img {
+  width: 100%;
+  height: 100%;
+}
