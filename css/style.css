@@ -256,3 +256,31 @@ nav a:hover {
   width: 100%;
   height: 100%;
 }
+
+/* SERVICES */
+.services-title {
+  color: #ffffff;
+}
+
+.detail {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.detail-2 {
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  line-height: 21px;
+  color: #7e7e7e;
+}
+
+.services-row {
+  margin-top: 50px;
+  border-right: 2px solid #bebebe;
+  border-left: 2px solid #bebebe;
+}
