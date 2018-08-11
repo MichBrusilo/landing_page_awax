@@ -289,3 +289,16 @@ nav a:hover {
   border-right: 2px solid #bebebe;
 }
 
+/* OUR PROJECTS */
+
+.link {
+  margin: auto;
+  margin-top: 50px;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  border: 1px solid #7e7e7e;
+  border-radius: 20px;
+  max-width: 710px;
+  background-color: #ededed;
+}
