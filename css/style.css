@@ -284,3 +284,8 @@ nav a:hover {
   border-right: 2px solid #bebebe;
   border-left: 2px solid #bebebe;
 }
+
+.col-with-border {
+  border-right: 2px solid #bebebe;
+}
+
