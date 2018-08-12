@@ -258,6 +258,7 @@ nav a:hover {
 }
 
 /* SERVICES */
+
 .services-title {
   color: #ffffff;
 }
@@ -393,6 +394,10 @@ nav a:hover {
 .team {
   background-color: #ffffff;
   width: 32%;
+}
+
+.white-title {
+  color: #ffffff;
 }
 
 .team1 {
