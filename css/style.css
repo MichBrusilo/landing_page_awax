@@ -445,3 +445,42 @@ nav a:hover {
 .paginator {
   margin-top: 50px;
 }
+
+/* HAPPY CLIENTS */
+
+.happy-clients {
+  margin: 30px 0;
+}
+
+.happy .img-client {
+  margin-top: 70px;
+}
+
+.happy h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.happy h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+.happy .quotes {
+  margin: 20px 0;
+}
+
+.happy .review {
+  color: #7e7e7e;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 25px;
+  max-width: 728px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
