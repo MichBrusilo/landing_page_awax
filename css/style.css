@@ -322,11 +322,11 @@ nav a:hover {
   padding: 0 20px;
 }
 
-.list a:hover {
+.links a:hover {
   border-bottom: 5px solid #b88b58;
 }
 
-.list li:last-child {
+.links li:last-child {
   border-right: none;
 }
 
