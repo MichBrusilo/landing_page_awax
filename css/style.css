@@ -484,3 +484,10 @@ nav a:hover {
   padding-bottom: 50px;
   margin: 0 auto;
 }
+
+/* LOGOS */
+
+.logos-container {
+  background-color: #ffffff;
+  padding: 55px 0 65px 0;
+}
